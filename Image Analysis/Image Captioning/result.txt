@@ -1,0 +1,52 @@
+이미지: brooke-cagle--uHVRvDr7pg-unsplash.jpg
+번역 전 이미지해석: A group of people are seated on chairs, with a table in front of them. The table holds a laptop, a cup, and a tablet. The background features a wall.
+번역 후 이미지해석: 한 무리의 사람들이 의자에 앉아 있고, 그 앞에 테이블이 있습니다. 테이블에는 노트북, 컵, 태블릿이 놓여 있습니다. 배경에는 벽이 있습니다.
+------------------------------------
+이미지: burst-kUqqaRjJuw0-unsplash.jpg
+번역 전 이미지해석: A person is depicted in this image, wearing a blue shirt and working on a laptop. The background features a window, a plant, and a cup.
+번역 후 이미지해석: 이 이미지에는 파란색 셔츠를 입고 노트북 작업을 하고 있는 사람이 묘사되어 있습니다. 배경에는 창문, 식물, 컵이 있습니다.
+------------------------------------
+이미지: CK_cm080788673.jpg
+번역 전 이미지해석: A laptop is positioned on a table, with a person's hand resting on top. The individual is dressed in a black jacket. The background features a few books and a white wall.
+번역 후 이미지해석: 노트북이 테이블 위에 놓여 있고 그 위에 사람의 손이 놓여 있습니다. 개인은 검은색 재킷을 입고 있습니다. 배경에는 몇 권의 책과 흰 벽이 있습니다.
+------------------------------------
+이미지: CK_cm080870247.jpg
+번역 전 이미지해석: A person is depicted in this image, holding a mobile phone in their hand. A laptop is situated beside them, displaying some text. The background is blurred.
+번역 후 이미지해석: 이 이미지에는 손에 휴대폰을 들고 있는 사람이 묘사되어 있습니다. 그들 옆에는 텍스트를 표시하는 노트북이 놓여 있습니다. 배경이 흐릿합니다.
+------------------------------------
+이미지: CK_cm080897042.jpg
+번역 전 이미지해석: A person is depicted in this image, holding a pen and writing on a calculator. The calculator displays some text. The background is white.
+번역 후 이미지해석: 이 이미지에는 펜을 들고 계산기에 글을 쓰고 있는 사람이 묘사되어 있습니다. 계산기에 일부 텍스트가 표시됩니다. 배경은 흰색입니다.
+------------------------------------
+이미지: CK_cm08149287.jpg
+번역 전 이미지해석: A blue button is situated in the center of the image, with a keyboard in the background. The keyboard contains text in various languages.
+번역 후 이미지해석: 파란색 버튼이 이미지 중앙에 있고 배경에는 키보드가 있습니다. 키보드에는 다양한 언어로 된 텍스트가 포함되어 있습니다.
+------------------------------------
+이미지: CK_tica0140004910.jpg
+번역 전 이미지해석: A group of people are seated on chairs, with a table in front of them. The table holds a laptop, pen, and paper. The background features a wall and a plant.
+번역 후 이미지해석: 한 무리의 사람들이 의자에 앉아 있고, 그 앞에 테이블이 있습니다. 테이블에는 노트북, 펜, 종이가 들어있습니다. 배경에는 벽과 식물이 있습니다.
+------------------------------------
+이미지: CK_tica0140011032.jpg
+번역 전 이미지해석: A group of people are seated on chairs, with a table in front of them. The table holds a laptop, papers, and a cup. The background features a pillar and a wall.
+번역 후 이미지해석: 한 무리의 사람들이 의자에 앉아 있고, 그 앞에 테이블이 있습니다. 테이블에는 노트북과 서류, 컵이 놓여 있습니다. 배경에는 기둥과 벽이 있습니다.
+------------------------------------
+이미지: pexels-markus-spiske-3970330.jpg
+번역 전 이미지해석: A black screen is the central focus of this image, with a red background. The screen contains various numbers and text, along with a map of the world.
+번역 후 이미지해석: 검은색 화면이 이 이미지의 중심 초점이며 빨간색 배경이 있습니다. 화면에는 세계 지도와 함께 다양한 숫자와 텍스트가 표시됩니다.
+------------------------------------
+이미지: pexels-matheus-bertelli-16094047.jpg
+번역 전 이미지해석: A person is seated on a couch, with a laptop positioned in front of them. The laptop's screen displays text, and a keyboard is situated in front of the person.
+번역 후 이미지해석: 한 사람이 소파에 앉아 있고 그 앞에는 노트북이 놓여 있습니다. 노트북의 화면에는 텍스트가 표시되고 키보드는 사람 앞에 있습니다.
+------------------------------------
+이미지: pexels-mikael-blomkvist-6476258.jpg
+번역 전 이미지해석: A group of people are seated around a table, with laptops, books, papers, and other items arranged on the surface. The individuals are dressed in various colors.
+번역 후 이미지해석: 한 무리의 사람들이 테이블 주위에 앉아 있고, 노트북, 책, 서류 및 기타 물건이 표면에 배열되어 있습니다. 개인은 다양한 색상의 옷을 입습니다.
+------------------------------------
+이미지: social-media-marketing-concept-marketing-with-applications.jpg
+번역 전 이미지해석: A person is depicted in this image, holding a mobile phone in their hand. The phone is displaying various icons and logos. The background is blurred, and the image appears to have been taken in a dimly lit environment.
+번역 후 이미지해석: 이 이미지에는 손에 휴대폰을 들고 있는 사람이 묘사되어 있습니다. 전화기에는 다양한 아이콘과 로고가 표시됩니다. 배경이 흐릿하고 조명이 어두운 환경에서 이미지가 촬영된 것처럼 보입니다.
+------------------------------------
+이미지: vecteezy_success-and-business-target-concept-determine-organizational_12859729.jpg
+번역 전 이미지해석: A hand is shown holding a dice in this image. The dice features a target and various icons. The background is a light blue color.
+번역 후 이미지해석: 이 이미지에는 주사위를 들고 있는 손이 나와 있습니다. 주사위에는 표적과 다양한 아이콘이 있습니다. 배경은 연한 파란색입니다.
+------------------------------------
