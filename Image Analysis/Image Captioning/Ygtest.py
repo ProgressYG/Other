@@ -1,5 +1,5 @@
 ##모델관련 중요 링크
-# https://www.notion.so/yg-progress-goodluck/moondream-Vision-model-e31a9121b17d48b283b605ae89af6b1e?pvs=4
+# https://yg-progress-goodluck.notion.site/moondream-Vision-model-e31a9121b17d48b283b605ae89af6b1e?pvs=4
 
 
 #requirements.txt 패키지를 설치해야함
