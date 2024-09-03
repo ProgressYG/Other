@@ -1,12 +1,12 @@
 # Prompt Caching 실제 활용 소스
 
-##1. AD_class_labeling_v2.ipynb
+## 1. AD_class_labeling_v2.ipynb
   - Prompt Caching 적용 전 파일
   
-##2. AD_class_labeling_v2_caching.ipynb
+## 2. AD_class_labeling_v2_caching.ipynb
   - Prompt Caching 적용 후 파일
 
-##3. class.txt
+## 3. class.txt
   - Caching을 적용한 Input Token(위 2번 코드에서 읽어 들어 캐싱화함)
 
 ## 기타 추가 구현  참조하상
